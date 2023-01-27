@@ -29,7 +29,7 @@ while command != 'exit':
     command = input('Введите команду: add/replace/delete/find/exit')
 
 print(ballsports)
-
+print(ballsports) # тестил git
 # ZD_3
 
 
