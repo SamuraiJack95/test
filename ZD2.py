@@ -198,4 +198,4 @@
 #
 # print(res_a, res_b, res_c)
 # # print(men_a, men_b, men_c)
-
+print ("ffg")
